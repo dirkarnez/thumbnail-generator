@@ -1,6 +1,6 @@
 thumbnail-generator
 ===================
-### Example using https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg
+### Example (5.62 MB -> 10.8 KB) using https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg
 ![](./Donald_Trump_official_portrait_original.jpg)
 ![](./Donald_Trump_official_portrait.jpg)
 ### Using
